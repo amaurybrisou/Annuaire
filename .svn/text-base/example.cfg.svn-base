@@ -1,5 +1,0 @@
-[MAIN]
-filename = annuaire
-type = dict
-old_type = <class 'ContactDict.ContactList'>
-
