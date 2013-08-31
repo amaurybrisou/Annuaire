@@ -1,0 +1,5 @@
+[MAIN]
+filename = annuaire
+type = tuples
+old_type = <class 'ContactTuples.ContactList'>
+
